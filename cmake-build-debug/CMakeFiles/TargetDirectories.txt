@@ -1,0 +1,9 @@
+D:/HOMEWORK4/cmake-build-debug/CMakeFiles/HOMEWORK4.dir
+D:/HOMEWORK4/cmake-build-debug/CMakeFiles/problem1.dir
+D:/HOMEWORK4/cmake-build-debug/CMakeFiles/problem2.dir
+D:/HOMEWORK4/cmake-build-debug/CMakeFiles/problem3.dir
+D:/HOMEWORK4/cmake-build-debug/CMakeFiles/problem4.dir
+D:/HOMEWORK4/cmake-build-debug/CMakeFiles/problem5.dir
+D:/HOMEWORK4/cmake-build-debug/CMakeFiles/problem6.dir
+D:/HOMEWORK4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/HOMEWORK4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
